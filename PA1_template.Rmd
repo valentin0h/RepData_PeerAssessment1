@@ -1,6 +1,6 @@
 # Reproducible Research: Peer assessment 1
-### *Valentino Hudhra*
-### * Dec 2015*
+### Valentino Hudhra
+### Dec 2015
 ==============================================================
 
 ## Prepare the R environment
@@ -15,7 +15,6 @@ opts_chunk$set(echo = TRUE, results = 'hold')
 
 ### Load required libraries
 ```{r call_libraries}
-library(data.table)
 library(ggplot2) # we shall use ggplot2 for plotting figures
 ```
 
